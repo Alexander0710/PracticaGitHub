@@ -53,7 +53,7 @@ $childrens = $elements["childrens"];
 				foreach($masters as $master)
 				{
 				?>
-					<li style="margin: 15px 0px">
+					<li style="margin: 15px 5px">
 						<span><i class='glyphicon glyphicon-folder-open'></i></span>
 						<a href="#" data-status="<?php echo $master["have_childrens"] ?>"
 						style="margin: 5px 6px" class="btn btn-warning btn-xs btn-folder">
