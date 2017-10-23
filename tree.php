@@ -1,4 +1,6 @@
 <?php
+
+"se debe comentar todos los metodos "
 class Tree
 {
 	private $_dbh;
