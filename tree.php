@@ -21,6 +21,8 @@ class Tree
         }
 	}
 	"esete es un comentario de prueba "
+	public function sinnombre(){
+	}
 
 	public function get()
 	{
