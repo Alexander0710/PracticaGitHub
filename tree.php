@@ -45,6 +45,8 @@ class Tree
 			}
 		}
 		return $this->_elements;
+		
+		echo element;
 	}
 
 	public static function nested($rows = array(), $parent_id = 0)
