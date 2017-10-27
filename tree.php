@@ -26,7 +26,7 @@ class Tree
 	{
 		$query = $this->_dbh->prepare("SELECT * FROM elementos");
 		$query->execute();
-		$this->_elements["masters"] = $this->_elements["childrens"] = array();
+		$this->_elements["Maestro "] = $this->_elements["Hijo"] = array();
 
 		if($query->rowCount() > 0)
 		{
