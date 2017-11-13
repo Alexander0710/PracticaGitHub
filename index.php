@@ -4,14 +4,15 @@ function __autoload($class_name)
 
 }
 
-
 ?>
 <!DOCTYPE html>
 <html>
 <head>
 	<title></title>
+	
 	<h1>PRUEBA CLOUD COMPUTING</h1>
 	<h2>CARRION GABRIELA ---------- LOMAS SANTIAGO</h2>
+	<h3> 13-11-2017</h3>
 	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
